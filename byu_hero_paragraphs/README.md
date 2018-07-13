@@ -1,4 +1,4 @@
-# BYU Hero Paragraph
+# BYU Hero Paragraphs
 
 ## Description and Usage
 
